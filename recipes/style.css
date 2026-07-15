@@ -9,20 +9,30 @@ img {
     height: 500px;
     width: auto;
 }
-a{
+a,
+a em,
+a strong{
     color: rgb(0, 145, 255);
 }
 h1{
     display: inline-block;
+    font-size: xxx-large;
     padding: 20px;
     margin: 5px;
     border-radius: 15px;
     background-color: rgba(0, 0, 0, 0.414);
 }
+h2{
+    font-size: xx-large;
+}
 .chunk{
+    font-size: large;
     display: block;
     padding: 10px;
     background-color: rgba(108, 108, 108, 0.654);
     margin-top: 20px;
     border-radius: 20px;
+}
+li{
+    padding-bottom: 5px;
 }
