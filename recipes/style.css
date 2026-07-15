@@ -1,0 +1,28 @@
+*{
+    font-family: monospace;
+    color: aliceblue;
+}
+body{
+    background-color: rgb(56, 56, 56);
+}
+img {
+    height: 500px;
+    width: auto;
+}
+a{
+    color: rgb(0, 145, 255);
+}
+h1{
+    display: inline-block;
+    padding: 20px;
+    margin: 5px;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.414);
+}
+.chunk{
+    display: block;
+    padding: 10px;
+    background-color: rgba(108, 108, 108, 0.654);
+    margin-top: 20px;
+    border-radius: 20px;
+}
